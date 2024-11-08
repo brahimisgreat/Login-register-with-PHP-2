@@ -19,7 +19,7 @@
         </div>
         <input type="submit" value="Login">
         <div>
-            Don't have an account?  <a href="register.php">sign Up Now</a>
+            already have an account?  <a href="index.php">sign in Now</a>
         </div>
     </form>
 </body>
